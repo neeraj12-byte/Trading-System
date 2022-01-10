@@ -245,6 +245,6 @@ void displayStocks(){
 void intro(){
     cout<<"\n\n\n\tIRASSHAIMASE!";
 	cout<<"\n\n\t  TRADING SYSTEM";
-	cout<<"\n\n\nMADE BY : Aashish\n\n";
+	cout<<"\n\n\nMADE BY : Neeraj Karumanchi\n\n";
 	cin.get();
 }
